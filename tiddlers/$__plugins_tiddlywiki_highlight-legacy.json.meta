@@ -1,0 +1,9 @@
+author: Joao Bolila
+dependents: 
+description: Highlight.js syntax highlighting for legacy browsers
+list: readme usage license
+name: Highlight (Legacy)
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/highlight-legacy
+type: application/json
+version: 5.3.1
